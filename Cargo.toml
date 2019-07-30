@@ -1,5 +1,5 @@
 [package]
-name = "Midbot_number_two"
+name = "midbot_number_two"
 version = "0.1.0"
 authors = ["Midou36O <facemioo3@gmail.com>"]
 edition = "2018"
@@ -7,4 +7,4 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-serenity = "0.6"
+serenity = "0.6.*"
