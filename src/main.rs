@@ -11,7 +11,7 @@ use serenity::framework::standard::{
 };
 
 group!({
-	name: "general"
+	name: "general",
 	options: {},
 	commands: [ping],
 });
